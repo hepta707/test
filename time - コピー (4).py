@@ -2,7 +2,7 @@ import time
 import subprocess
 
 while True:
-    # 1108時間待つ
+    # 11008時間待つ
     time.sleep(60)
     
     # Pythonスクリプトを実行する
