@@ -9,7 +9,7 @@ while True:
     subprocess.run(['python', 'tw-seeking_alpha.py'])
 
 while True:
-    # 0時間待つ
+    # 01時間待つ
     time.sleep(70)
     
     # Pythonスクリプトを実行する
