@@ -2,7 +2,7 @@ import time
 import subprocess
 
 while True:
-    # 11時間待つ
+    # 111時間待つ
     time.sleep(60)
     
     # Pythonスクdリプトを実行する
