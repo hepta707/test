@@ -5,7 +5,7 @@ while True:
     # 1時間待つ
     time.sleep(60)
     
-    # Pythonスクdリプトを実行する
+    # Python0スクdリプトを実行する
     subprocess.run(['python', 'tw-seeking_alpha.py'])
 
 while True:
